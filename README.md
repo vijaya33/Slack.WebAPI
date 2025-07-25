@@ -32,6 +32,8 @@ Slack.WebAPI/
 ├── appsettings.json
 ├── Program.cs
 ├── Startup.cs
+
+
 ├── Slack.WebAPI.csproj
 
 Folder structure of (Frontend) this project and solution is work in progress with React and JavaScript:  
