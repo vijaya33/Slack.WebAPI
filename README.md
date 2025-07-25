@@ -1,6 +1,6 @@
 The Source code in this reopsitory is developed as part of a system design interview question 
 
-Folder structure of this project and solution: 
+Folder structure of (Backend) this project and solution: 
 Slack.WebAPI/
 
 
@@ -33,6 +33,8 @@ Slack.WebAPI/
 ├── Program.cs
 ├── Startup.cs
 ├── Slack.WebAPI.csproj
+
+Folder structure of (Frontend) this project and solution is work in progress with React and JavaScript:  
 
 
 Contributing to this project Pull requests and feedback are welcome. Please fork the repository and submit a pull request with your enhancements
