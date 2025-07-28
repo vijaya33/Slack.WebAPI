@@ -36,7 +36,7 @@ Slack React Clone. (Clone of exisiting Slack application.)
 
 ├── Slack.WebAPI.csproj
 
-Folder structure of (Frontend) this project and solution is work in progress with React and JavaScript:  
+Folder structure of (Frontend) this project and solution with HTML, React and JavaScript:  
 
 slack-frontend/
 
