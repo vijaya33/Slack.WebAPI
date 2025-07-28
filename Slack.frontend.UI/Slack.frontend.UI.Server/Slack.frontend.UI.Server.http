@@ -1,0 +1,6 @@
+@Slack.frontend.UI.Server_HostAddress = http://localhost:5182
+
+GET {{Slack.frontend.UI.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
