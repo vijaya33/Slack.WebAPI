@@ -47,10 +47,12 @@ slack-frontend/
 
 └── src/
     ├── App.js
+   
     ├── components/
-    │   ├── ChannelList.js
-    │   ├── ChatWindow.js
-    │   └── MessageInput.js
+    
+        │   ├── ChannelList.js
+        │   ├── ChatWindow.js
+        │   └── MessageInput.js
     ├── api.js
     └── index.js
 
